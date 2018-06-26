@@ -1,0 +1,45 @@
+                                               ERP modules 
+*Enterprise resource planning (ERP) is business management software to integrate all facets of an operation 
+including planning, development, sales and marketing.
+*In companies, the term "enterprise" is often used to describe business processes that encompass all
+ departments or elements of the business. Thus, enterprise resource planning means that all parts of the
+ company collaborate in the process of acquiring and managing efficient resource use.
+SAP ERP modules
+*There are 2 Types of SAP ERP Modules. Number one is Functional Modules and second one is Technical Modules. 
+All SAP Modules integrated with each other with functionality and provide us best solution for Business. 
+
+Most important SAP Modules that Bunnies implement for their business are
+	
+	#Functional SAP ERP Modules
+	Human Resource Management (SAP HRM), also known as Human Resource (HR)
+	Production Planning (SAP PP)
+	Material Management (SAP MM)
+	Financial Supply Chain Management (SAP FSCM)
+	Sales and Distribution (SAP SD)
+	Project System (SAP PS)
+	Financial Accounting and Controlling (SAP FICO)
+	Plant Maintenance (SAP PM)
+	Quality Management (SAP QM)
+*ERP systems are made up of many different software modules. Each of the modules in ERP module is specialized 
+to handle specific business processes. In this guide to ERP modules and software, you'll find introductions
+ to the various components of ERP and learn how each module can benefit your organization.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
